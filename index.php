@@ -430,7 +430,7 @@ $isLoggedIn = isset($_SESSION['siranap_admin']);
 
 <footer class="main-footer">
     <p class="mb-0">
-        Bridging Siranap &copy; 2026. Dikembangkan oleh <strong>RSU Adella Slawi</strong>.
+        Bridging Siranap &copy; 2026. Dikembangkan oleh <strong>IT RSU Adella Slawi</strong>.
         <a href="https://rsadella.slawi" target="_blank" id="donationLink" style="color:var(--primary);">rsadella.slawi</a> |
         <a href="tel:0823491154" style="color:var(--primary);">0823491154</a> |
         <a href="mailto:rsadella@slawi.com" style="color:var(--primary);">rsadella@slawi.com</a>
